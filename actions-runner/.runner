@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "react-demo",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/BFMws3LLcyE5332Q9BtAVRr6KEvQ56ZHQ8qEbktj0Qxuk3QLBf",
+  "gitHubUrl": "https://github.com/rishi4758/actions",
+  "workFolder": "react-demo"
+}

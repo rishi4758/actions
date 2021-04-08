@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "rishi4758/actions",
+  "pipelineDirectory": "actions",
+  "workspaceDirectory": "actions/actions",
+  "repositories": {
+    "rishi4758/actions": {
+      "repositoryPath": "actions/actions",
+      "lastRunOn": "04/08/2021 10:15:14 +03:00"
+    }
+  },
+  "lastRunOn": "04/08/2021 15:12:35 +03:00"
+}

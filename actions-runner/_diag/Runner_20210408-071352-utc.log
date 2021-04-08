@@ -1,0 +1,332 @@
+[2021-04-08 07:13:52Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO HostContext] Well known config file 'Credentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials'
+[2021-04-08 07:13:52Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2021-04-08 07:13:52Z INFO Listener] RuntimeInformation: Darwin 20.3.0 Darwin Kernel Version 20.3.0: Thu Jan 21 00:06:51 PST 2021; root:xnu-7195.81.3~1/RELEASE_ARM64_T8101.
+[2021-04-08 07:13:52Z INFO Listener] Version: 2.277.1
+[2021-04-08 07:13:52Z INFO Listener] Commit: 183a3dd9a0d4d51feddc5fe9fa6c3b5f8b08343d
+[2021-04-08 07:13:52Z INFO Listener] Culture: en-GB
+[2021-04-08 07:13:52Z INFO Listener] UI Culture: en-GB
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO Listener] Validating directory permissions for: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO CommandLineParser] Parse
+[2021-04-08 07:13:52Z INFO CommandLineParser] Parsing 1 args
+[2021-04-08 07:13:52Z INFO CommandLineParser] parsing argument
+[2021-04-08 07:13:52Z INFO CommandLineParser] HasArgs: False
+[2021-04-08 07:13:52Z INFO CommandLineParser] Adding Command: run
+[2021-04-08 07:13:52Z INFO Listener] Arguments parsed
+[2021-04-08 07:13:52Z INFO Runner] ExecuteCommand
+[2021-04-08 07:13:52Z INFO ConfigurationStore] currentAssemblyLocation: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Listener.dll
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] binPath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] RootFolder: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO HostContext] Well known config file 'Runner': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.runner'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] ConfigFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.runner
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO HostContext] Well known config file 'Credentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] CredFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_migrated'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] MigratedCredFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_migrated
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO HostContext] Well known config file 'Service': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.service'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.service
+[2021-04-08 07:13:52Z INFO CommandSettings] Flag 'help': 'False'
+[2021-04-08 07:13:52Z INFO CommandSettings] Flag 'version': 'False'
+[2021-04-08 07:13:52Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-04-08 07:13:52Z INFO CommandSettings] Flag 'check': 'False'
+[2021-04-08 07:13:52Z INFO CommandSettings] Command 'configure': 'False'
+[2021-04-08 07:13:52Z INFO CommandSettings] Command 'remove': 'False'
+[2021-04-08 07:13:52Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-04-08 07:13:52Z INFO ConfigurationManager] LoadSettings
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsConfigured()
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-08 07:13:52Z INFO ConfigurationManager] Is configured: True
+[2021-04-08 07:13:52Z INFO ConfigurationStore] Read setting file: 289 chars
+[2021-04-08 07:13:52Z INFO ConfigurationManager] Settings Loaded
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-04-08 07:13:52Z INFO CommandSettings] Command 'run': 'True'
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsConfigured()
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-08 07:13:52Z INFO ConfigurationManager] Is configured: True
+[2021-04-08 07:13:52Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2021-04-08 07:13:52Z INFO Runner] Set runner startup type - Manual
+[2021-04-08 07:13:52Z INFO CommandSettings] Flag 'once': 'False'
+[2021-04-08 07:13:52Z INFO Runner] RunAsync
+[2021-04-08 07:13:52Z INFO ConfigurationManager] LoadSettings
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsConfigured()
+[2021-04-08 07:13:52Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-08 07:13:52Z INFO ConfigurationManager] Is configured: True
+[2021-04-08 07:13:52Z INFO ConfigurationManager] Settings Loaded
+[2021-04-08 07:13:52Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "react-demo",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/BFMws3LLcyE5332Q9BtAVRr6KEvQ56ZHQ8qEbktj0Qxuk3QLBf",
+  "GitHubUrl": "https://github.com/rishi4758/actions",
+  "WorkFolder": "react-demo"
+}
+[2021-04-08 07:13:52Z INFO MessageListener] Loading Credentials
+[2021-04-08 07:13:52Z INFO ConfigurationStore] HasCredentials()
+[2021-04-08 07:13:52Z INFO ConfigurationStore] stored True
+[2021-04-08 07:13:52Z INFO CredentialManager] GetCredentialProvider
+[2021-04-08 07:13:52Z INFO CredentialManager] Creating type OAuth
+[2021-04-08 07:13:52Z INFO CredentialManager] Creating credential type: OAuth
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:13:52Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 07:13:52Z INFO HostContext] Well known config file 'RSACredentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams'
+[2021-04-08 07:13:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:13:52Z INFO MessageListener] Attempt to create session.
+[2021-04-08 07:13:52Z INFO MessageListener] Connecting to the Runner Server...
+[2021-04-08 07:13:52Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-04-08 07:13:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 07:13:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-08 07:13:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 07:13:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-08 07:13:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 07:13:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 07:13:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 07:13:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 07:13:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 07:13:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 07:13:54Z INFO MessageListener] VssConnection created
+[2021-04-08 07:13:54Z INFO Terminal] WRITE LINE: 
+[2021-04-08 07:13:54Z INFO Terminal] WRITE LINE: 
+[2021-04-08 07:13:54Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: ce87d38b-47d2-47e8-bd45-79ace3f8ad16
+ActivityId: 73c00f0f-62a8-4d35-8c84-bc1633d7c408
+X-TFS-Session: 5d447f02-0790-40e2-948d-dd3a0da9cba4
+X-VSS-E2EID: bbc93733-3b49-480b-968e-6d49772c0291
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: 6C9A56F7A2C34E1B9441C54236FABB1D Ref B: HEL03EDGE0211 Ref C: 2021-04-08T07:13:54Z
+Date: Thu, 08 Apr 2021 07:13:53 GMT
+
+[2021-04-08 07:13:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:13:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:13:55Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-04-08 07:13:55Z INFO MessageListener] Session created.
+[2021-04-08 07:13:55Z INFO Terminal] WRITE LINE: 2021-04-08 07:13:55Z: Listening for Jobs
+[2021-04-08 07:13:55Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2021-04-08 07:15:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:15:10Z INFO MessageListener] Message '1' received from session '1cebf0cd-1ce6-4a04-bff2-3038e27de35c'.
+[2021-04-08 07:15:10Z INFO JobDispatcher] Job request 1 for plan c99c8a64-a74b-48d8-8994-61899272f5dd job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 received.
+[2021-04-08 07:15:10Z INFO JobDispatcher] Pull OrchestrationId c99c8a64-a74b-48d8-8994-61899272f5dd.build._14_x from JWT claims
+[2021-04-08 07:15:10Z INFO Terminal] WRITE LINE: 2021-04-08 07:15:10Z: Running job: build (14.x)
+[2021-04-08 07:15:10Z INFO JobDispatcher] Start renew job request 1 for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2021-04-08 07:15:11Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 08/04/2021 07:25:11
+[2021-04-08 07:15:11Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 104 107'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 07:15:11Z INFO ProcessInvokerWrapper] Process started with process id 12739, waiting for process exit.
+[2021-04-08 07:15:11Z INFO JobDispatcher] Send job request message to worker for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2021-04-08 07:15:11Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 07:15:11Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 07:15:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:15:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:15:56Z INFO ProcessInvokerWrapper] Finished process 12739 with exit code 100, and elapsed time 00:00:45.2624540.
+[2021-04-08 07:15:56Z INFO JobDispatcher] Worker finished for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4. Code: 100
+[2021-04-08 07:15:56Z INFO JobDispatcher] finish job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 with result: Succeeded
+[2021-04-08 07:15:56Z INFO Terminal] WRITE LINE: 2021-04-08 07:15:56Z: Job build (14.x) completed with result: Succeeded
+[2021-04-08 07:15:56Z INFO JobDispatcher] Stop renew job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2021-04-08 07:15:56Z INFO JobDispatcher] job renew has been canceled, stop renew job request 1.
+[2021-04-08 07:15:56Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 07:15:56Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 07:15:59Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:15:59Z INFO MessageListener] Message '2' received from session '1cebf0cd-1ce6-4a04-bff2-3038e27de35c'.
+[2021-04-08 07:15:59Z INFO JobDispatcher] Job request 2 for plan c99c8a64-a74b-48d8-8994-61899272f5dd job a9a345e6-1106-5aaa-6fe5-f842db892828 received.
+[2021-04-08 07:15:59Z INFO JobDispatcher] Pull OrchestrationId c99c8a64-a74b-48d8-8994-61899272f5dd.build._12_x from JWT claims
+[2021-04-08 07:15:59Z INFO JobDispatcher] Job request 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 processed succeed.
+[2021-04-08 07:15:59Z INFO Terminal] WRITE LINE: 2021-04-08 07:15:59Z: Running job: build (12.x)
+[2021-04-08 07:15:59Z INFO JobDispatcher] Start renew job request 2 for job a9a345e6-1106-5aaa-6fe5-f842db892828.
+[2021-04-08 07:15:59Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 08/04/2021 07:25:59
+[2021-04-08 07:15:59Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 89 106'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 07:15:59Z INFO ProcessInvokerWrapper] Process started with process id 13338, waiting for process exit.
+[2021-04-08 07:15:59Z INFO JobDispatcher] Send job request message to worker for job a9a345e6-1106-5aaa-6fe5-f842db892828.
+[2021-04-08 07:15:59Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 07:15:59Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 07:16:41Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:16:41Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:16:41Z INFO ProcessInvokerWrapper] Finished process 13338 with exit code 100, and elapsed time 00:00:41.8537606.
+[2021-04-08 07:16:41Z INFO JobDispatcher] Worker finished for job a9a345e6-1106-5aaa-6fe5-f842db892828. Code: 100
+[2021-04-08 07:16:41Z INFO JobDispatcher] finish job request for job a9a345e6-1106-5aaa-6fe5-f842db892828 with result: Succeeded
+[2021-04-08 07:16:41Z INFO Terminal] WRITE LINE: 2021-04-08 07:16:41Z: Job build (12.x) completed with result: Succeeded
+[2021-04-08 07:16:41Z INFO JobDispatcher] Stop renew job request for job a9a345e6-1106-5aaa-6fe5-f842db892828.
+[2021-04-08 07:16:41Z INFO JobDispatcher] job renew has been canceled, stop renew job request 2.
+[2021-04-08 07:16:41Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 07:16:41Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 07:16:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:16:44Z INFO MessageListener] Message '3' received from session '1cebf0cd-1ce6-4a04-bff2-3038e27de35c'.
+[2021-04-08 07:16:44Z INFO JobDispatcher] Job request 3 for plan c99c8a64-a74b-48d8-8994-61899272f5dd job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2021-04-08 07:16:44Z INFO JobDispatcher] Pull OrchestrationId c99c8a64-a74b-48d8-8994-61899272f5dd.build._10_x from JWT claims
+[2021-04-08 07:16:44Z INFO JobDispatcher] Job request a9a345e6-1106-5aaa-6fe5-f842db892828 processed succeed.
+[2021-04-08 07:16:44Z INFO Terminal] WRITE LINE: 2021-04-08 07:16:44Z: Running job: build (10.x)
+[2021-04-08 07:16:44Z INFO JobDispatcher] Start renew job request 3 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2021-04-08 07:16:44Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 08/04/2021 07:26:44
+[2021-04-08 07:16:44Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 89 106'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 07:16:44Z INFO ProcessInvokerWrapper] Process started with process id 13908, waiting for process exit.
+[2021-04-08 07:16:44Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2021-04-08 07:16:44Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 07:16:44Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 07:17:44Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 08/04/2021 07:27:44
+[2021-04-08 07:17:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:17:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:17:46Z INFO ProcessInvokerWrapper] Finished process 13908 with exit code 100, and elapsed time 00:01:01.9732731.
+[2021-04-08 07:17:46Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 100
+[2021-04-08 07:17:46Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Succeeded
+[2021-04-08 07:17:46Z INFO Terminal] WRITE LINE: 2021-04-08 07:17:46Z: Job build (10.x) completed with result: Succeeded
+[2021-04-08 07:17:46Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2021-04-08 07:17:46Z INFO JobDispatcher] job renew has been canceled, stop renew job request 3.
+[2021-04-08 07:17:46Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 07:17:46Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 07:17:48Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 07:17:49Z INFO MessageListener] Message '4' received from session '1cebf0cd-1ce6-4a04-bff2-3038e27de35c'.
+[2021-04-08 07:17:49Z INFO JobDispatcher] Job request 4 for plan c99c8a64-a74b-48d8-8994-61899272f5dd job 9401685c-2fe3-55d8-df43-398be35d1e48 received.
+[2021-04-08 07:17:49Z INFO JobDispatcher] Pull OrchestrationId c99c8a64-a74b-48d8-8994-61899272f5dd.build._15_x from JWT claims
+[2021-04-08 07:17:49Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2021-04-08 07:17:49Z INFO Terminal] WRITE LINE: 2021-04-08 07:17:49Z: Running job: build (15.x)
+[2021-04-08 07:17:49Z INFO JobDispatcher] Start renew job request 4 for job 9401685c-2fe3-55d8-df43-398be35d1e48.
+[2021-04-08 07:17:49Z INFO JobDispatcher] Successfully renew job request 4, job is valid till 08/04/2021 07:27:49
+[2021-04-08 07:17:49Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 89 106'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 07:17:49Z INFO ProcessInvokerWrapper] Process started with process id 14540, waiting for process exit.
+[2021-04-08 07:17:49Z INFO JobDispatcher] Send job request message to worker for job 9401685c-2fe3-55d8-df43-398be35d1e48.
+[2021-04-08 07:17:49Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 07:17:49Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 07:18:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:18:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 07:18:30Z INFO ProcessInvokerWrapper] Finished process 14540 with exit code 100, and elapsed time 00:00:41.5772572.
+[2021-04-08 07:18:30Z INFO JobDispatcher] Worker finished for job 9401685c-2fe3-55d8-df43-398be35d1e48. Code: 100
+[2021-04-08 07:18:30Z INFO JobDispatcher] finish job request for job 9401685c-2fe3-55d8-df43-398be35d1e48 with result: Succeeded
+[2021-04-08 07:18:30Z INFO Terminal] WRITE LINE: 2021-04-08 07:18:30Z: Job build (15.x) completed with result: Succeeded
+[2021-04-08 07:18:30Z INFO JobDispatcher] Stop renew job request for job 9401685c-2fe3-55d8-df43-398be35d1e48.
+[2021-04-08 07:18:30Z INFO JobDispatcher] job renew has been canceled, stop renew job request 4.
+[2021-04-08 07:18:30Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 07:18:30Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 07:42:09Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/BFMws3LLcyE5332Q9BtAVRr6KEvQ56ZHQ8qEbktj0Qxuk3QLBf/_apis/distributedtask/pools/1/messages?sessionId=1cebf0cd-1ce6-4a04-bff2-3038e27de35c&lastMessageId=4 timed out after 60 seconds.
+[2021-04-08 07:42:09Z ERR  MessageListener] Catch exception during get next message.
+[2021-04-08 07:42:10Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2021-04-08 07:42:10Z ERR  MessageListener] #####################################################
+[2021-04-08 07:42:10Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2021-04-08 07:42:10Z ERR  MessageListener] #####################################################
+[2021-04-08 07:42:10Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+[2021-04-08 07:42:10Z ERR  MessageListener] #####################################################
+[2021-04-08 07:42:10Z ERR  MessageListener] System.Net.Sockets.SocketException (89): Operation canceled
+[2021-04-08 07:42:10Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2021-04-08 07:42:10Z ERR  Terminal] WRITE ERROR: 2021-04-08 07:42:10Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2021-04-08 07:42:10Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2021-04-08 07:42:10Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-08 07:42:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 07:42:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 07:42:10Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2021-04-08 07:42:14Z INFO Terminal] WRITE LINE: Exiting...
+[2021-04-08 07:42:14Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-04-08 07:42:14Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-04-08 07:42:14Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2021-04-08 07:42:14Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2021-04-08 07:42:14Z INFO JobDispatcher] Ensure WorkerDispather for job 9401685c-2fe3-55d8-df43-398be35d1e48 run to finish, cancel any running job.
+[2021-04-08 07:42:14Z INFO JobDispatcher] Job request 9401685c-2fe3-55d8-df43-398be35d1e48 processed succeed.
+[2021-04-08 07:42:14Z INFO Listener] Runner execution been cancelled.

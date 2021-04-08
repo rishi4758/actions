@@ -1,0 +1,259 @@
+[2021-04-08 12:09:58Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO HostContext] Well known config file 'Credentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials'
+[2021-04-08 12:09:58Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2021-04-08 12:09:58Z INFO Listener] RuntimeInformation: Darwin 20.3.0 Darwin Kernel Version 20.3.0: Thu Jan 21 00:06:51 PST 2021; root:xnu-7195.81.3~1/RELEASE_ARM64_T8101.
+[2021-04-08 12:09:58Z INFO Listener] Version: 2.277.1
+[2021-04-08 12:09:58Z INFO Listener] Commit: 183a3dd9a0d4d51feddc5fe9fa6c3b5f8b08343d
+[2021-04-08 12:09:58Z INFO Listener] Culture: en-GB
+[2021-04-08 12:09:58Z INFO Listener] UI Culture: en-GB
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO Listener] Validating directory permissions for: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO CommandLineParser] Parse
+[2021-04-08 12:09:58Z INFO CommandLineParser] Parsing 1 args
+[2021-04-08 12:09:58Z INFO CommandLineParser] parsing argument
+[2021-04-08 12:09:58Z INFO CommandLineParser] HasArgs: False
+[2021-04-08 12:09:58Z INFO CommandLineParser] Adding Command: run
+[2021-04-08 12:09:58Z INFO Listener] Arguments parsed
+[2021-04-08 12:09:58Z INFO Runner] ExecuteCommand
+[2021-04-08 12:09:58Z INFO ConfigurationStore] currentAssemblyLocation: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Listener.dll
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] binPath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] RootFolder: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO HostContext] Well known config file 'Runner': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.runner'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] ConfigFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.runner
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO HostContext] Well known config file 'Credentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] CredFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_migrated'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] MigratedCredFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_migrated
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO HostContext] Well known config file 'Service': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.service'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.service
+[2021-04-08 12:09:58Z INFO CommandSettings] Flag 'help': 'False'
+[2021-04-08 12:09:58Z INFO CommandSettings] Flag 'version': 'False'
+[2021-04-08 12:09:58Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-04-08 12:09:58Z INFO CommandSettings] Flag 'check': 'False'
+[2021-04-08 12:09:58Z INFO CommandSettings] Command 'configure': 'False'
+[2021-04-08 12:09:58Z INFO CommandSettings] Command 'remove': 'False'
+[2021-04-08 12:09:58Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-04-08 12:09:58Z INFO ConfigurationManager] LoadSettings
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsConfigured()
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-08 12:09:58Z INFO ConfigurationManager] Is configured: True
+[2021-04-08 12:09:58Z INFO ConfigurationStore] Read setting file: 289 chars
+[2021-04-08 12:09:58Z INFO ConfigurationManager] Settings Loaded
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsServiceConfigured: True
+[2021-04-08 12:09:58Z INFO CommandSettings] Command 'run': 'True'
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsConfigured()
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-08 12:09:58Z INFO ConfigurationManager] Is configured: True
+[2021-04-08 12:09:58Z INFO Runner] Try determine runner startup type base on console redirects.
+[2021-04-08 12:09:58Z INFO Runner] Set runner startup type - Manual
+[2021-04-08 12:09:58Z INFO CommandSettings] Flag 'once': 'False'
+[2021-04-08 12:09:58Z INFO Runner] RunAsync
+[2021-04-08 12:09:58Z INFO ConfigurationManager] LoadSettings
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsConfigured()
+[2021-04-08 12:09:58Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-08 12:09:58Z INFO ConfigurationManager] Is configured: True
+[2021-04-08 12:09:58Z INFO ConfigurationManager] Settings Loaded
+[2021-04-08 12:09:58Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "react-demo",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/BFMws3LLcyE5332Q9BtAVRr6KEvQ56ZHQ8qEbktj0Qxuk3QLBf",
+  "GitHubUrl": "https://github.com/rishi4758/actions",
+  "WorkFolder": "react-demo"
+}
+[2021-04-08 12:09:58Z INFO MessageListener] Loading Credentials
+[2021-04-08 12:09:58Z INFO ConfigurationStore] HasCredentials()
+[2021-04-08 12:09:58Z INFO ConfigurationStore] stored True
+[2021-04-08 12:09:58Z INFO CredentialManager] GetCredentialProvider
+[2021-04-08 12:09:58Z INFO CredentialManager] Creating type OAuth
+[2021-04-08 12:09:58Z INFO CredentialManager] Creating credential type: OAuth
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:09:58Z INFO HostContext] Well known directory 'Root': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner'
+[2021-04-08 12:09:58Z INFO HostContext] Well known config file 'RSACredentials': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams'
+[2021-04-08 12:09:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:09:58Z INFO MessageListener] Attempt to create session.
+[2021-04-08 12:09:58Z INFO MessageListener] Connecting to the Runner Server...
+[2021-04-08 12:09:58Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-04-08 12:09:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 12:09:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-08 12:09:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 12:09:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-08 12:09:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-08 12:10:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 12:10:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 12:10:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-08 12:10:00Z INFO MessageListener] VssConnection created
+[2021-04-08 12:10:00Z INFO Terminal] WRITE LINE: 
+[2021-04-08 12:10:00Z INFO Terminal] WRITE LINE: 
+[2021-04-08 12:10:00Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: a3a848ce-7a80-4158-bf26-b870efe6ba23
+ActivityId: 2c5d7be2-cede-4410-b882-dc7b8c7861f2
+X-TFS-Session: 41d654c8-fd8a-4056-b6b8-b39cf062509e
+X-VSS-E2EID: 790e6b9c-9d90-40f7-b082-81a329075e69
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: A94F6BF27B9A454BB17D91DB8419ACF5 Ref B: HEL03EDGE0219 Ref C: 2021-04-08T12:10:00Z
+Date: Thu, 08 Apr 2021 12:09:59 GMT
+
+[2021-04-08 12:10:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:10:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:10:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-04-08 12:10:01Z INFO MessageListener] Session created.
+[2021-04-08 12:10:01Z INFO Terminal] WRITE LINE: 2021-04-08 12:10:01Z: Listening for Jobs
+[2021-04-08 12:10:01Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2021-04-08 12:10:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:10:06Z INFO MessageListener] Message '5' received from session '83aed3bc-70d6-428f-a1ca-5f2ff46e111f'.
+[2021-04-08 12:10:06Z INFO JobDispatcher] Job request 5 for plan 1cbac8c9-1299-4216-92fa-602e4634db66 job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2021-04-08 12:10:06Z INFO JobDispatcher] Pull OrchestrationId 1cbac8c9-1299-4216-92fa-602e4634db66.build._10_x from JWT claims
+[2021-04-08 12:10:06Z INFO Terminal] WRITE LINE: 2021-04-08 12:10:06Z: Running job: build (10.x)
+[2021-04-08 12:10:06Z INFO JobDispatcher] Start renew job request 5 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2021-04-08 12:10:06Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 08/04/2021 12:20:06
+[2021-04-08 12:10:06Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 104 107'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 12:10:06Z INFO ProcessInvokerWrapper] Process started with process id 23013, waiting for process exit.
+[2021-04-08 12:10:06Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2021-04-08 12:10:06Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 12:10:06Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 12:11:06Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:11:06Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:11:06Z INFO ProcessInvokerWrapper] Finished process 23013 with exit code 100, and elapsed time 00:01:00.2698177.
+[2021-04-08 12:11:06Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 100
+[2021-04-08 12:11:06Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Succeeded
+[2021-04-08 12:11:06Z INFO Terminal] WRITE LINE: 2021-04-08 12:11:06Z: Job build (10.x) completed with result: Succeeded
+[2021-04-08 12:11:06Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2021-04-08 12:11:06Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/BFMws3LLcyE5332Q9BtAVRr6KEvQ56ZHQ8qEbktj0Qxuk3QLBf/_apis/distributedtask/pools/1/jobrequests/5?lockToken=00000000-0000-0000-0000-000000000000 has been cancelled.
+[2021-04-08 12:11:06Z INFO JobDispatcher] job renew has been canceled, stop renew job request 5.
+[2021-04-08 12:11:06Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 12:11:06Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 12:11:09Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:11:09Z INFO MessageListener] Message '6' received from session '83aed3bc-70d6-428f-a1ca-5f2ff46e111f'.
+[2021-04-08 12:11:10Z INFO JobDispatcher] Job request 6 for plan 1cbac8c9-1299-4216-92fa-602e4634db66 job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 received.
+[2021-04-08 12:11:10Z INFO JobDispatcher] Pull OrchestrationId 1cbac8c9-1299-4216-92fa-602e4634db66.build._14_x from JWT claims
+[2021-04-08 12:11:10Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2021-04-08 12:11:10Z INFO Terminal] WRITE LINE: 2021-04-08 12:11:10Z: Running job: build (14.x)
+[2021-04-08 12:11:10Z INFO JobDispatcher] Start renew job request 6 for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2021-04-08 12:11:10Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 08/04/2021 12:21:10
+[2021-04-08 12:11:10Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 104 109'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 12:11:10Z INFO ProcessInvokerWrapper] Process started with process id 23822, waiting for process exit.
+[2021-04-08 12:11:10Z INFO JobDispatcher] Send job request message to worker for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2021-04-08 12:11:10Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 12:11:10Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 12:11:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:11:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:11:47Z INFO ProcessInvokerWrapper] Finished process 23822 with exit code 100, and elapsed time 00:00:36.6968738.
+[2021-04-08 12:11:47Z INFO JobDispatcher] Worker finished for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4. Code: 100
+[2021-04-08 12:11:47Z INFO JobDispatcher] finish job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 with result: Succeeded
+[2021-04-08 12:11:47Z INFO Terminal] WRITE LINE: 2021-04-08 12:11:47Z: Job build (14.x) completed with result: Succeeded
+[2021-04-08 12:11:47Z INFO JobDispatcher] Stop renew job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2021-04-08 12:11:47Z INFO JobDispatcher] job renew has been canceled, stop renew job request 6.
+[2021-04-08 12:11:47Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 12:11:47Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 12:11:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:11:50Z INFO MessageListener] Message '7' received from session '83aed3bc-70d6-428f-a1ca-5f2ff46e111f'.
+[2021-04-08 12:11:50Z INFO JobDispatcher] Job request 7 for plan 1cbac8c9-1299-4216-92fa-602e4634db66 job a9a345e6-1106-5aaa-6fe5-f842db892828 received.
+[2021-04-08 12:11:50Z INFO JobDispatcher] Pull OrchestrationId 1cbac8c9-1299-4216-92fa-602e4634db66.build._12_x from JWT claims
+[2021-04-08 12:11:50Z INFO JobDispatcher] Job request 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 processed succeed.
+[2021-04-08 12:11:50Z INFO Terminal] WRITE LINE: 2021-04-08 12:11:50Z: Running job: build (12.x)
+[2021-04-08 12:11:50Z INFO JobDispatcher] Start renew job request 7 for job a9a345e6-1106-5aaa-6fe5-f842db892828.
+[2021-04-08 12:11:51Z INFO JobDispatcher] Successfully renew job request 7, job is valid till 08/04/2021 12:21:51
+[2021-04-08 12:11:51Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 90 107'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 12:11:51Z INFO ProcessInvokerWrapper] Process started with process id 24489, waiting for process exit.
+[2021-04-08 12:11:51Z INFO JobDispatcher] Send job request message to worker for job a9a345e6-1106-5aaa-6fe5-f842db892828.
+[2021-04-08 12:11:51Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 12:11:51Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 12:12:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:12:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:12:30Z INFO ProcessInvokerWrapper] Finished process 24489 with exit code 100, and elapsed time 00:00:39.4643298.
+[2021-04-08 12:12:30Z INFO JobDispatcher] Worker finished for job a9a345e6-1106-5aaa-6fe5-f842db892828. Code: 100
+[2021-04-08 12:12:30Z INFO JobDispatcher] finish job request for job a9a345e6-1106-5aaa-6fe5-f842db892828 with result: Succeeded
+[2021-04-08 12:12:30Z INFO Terminal] WRITE LINE: 2021-04-08 12:12:30Z: Job build (12.x) completed with result: Succeeded
+[2021-04-08 12:12:30Z INFO JobDispatcher] Stop renew job request for job a9a345e6-1106-5aaa-6fe5-f842db892828.
+[2021-04-08 12:12:30Z INFO JobDispatcher] job renew has been canceled, stop renew job request 7.
+[2021-04-08 12:12:30Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 12:12:30Z INFO JobNotification] Entering EndMonitor
+[2021-04-08 12:12:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/.credentials_rsaparams
+[2021-04-08 12:12:32Z INFO MessageListener] Message '8' received from session '83aed3bc-70d6-428f-a1ca-5f2ff46e111f'.
+[2021-04-08 12:12:32Z INFO JobDispatcher] Job request 8 for plan 1cbac8c9-1299-4216-92fa-602e4634db66 job 9401685c-2fe3-55d8-df43-398be35d1e48 received.
+[2021-04-08 12:12:32Z INFO JobDispatcher] Pull OrchestrationId 1cbac8c9-1299-4216-92fa-602e4634db66.build._15_x from JWT claims
+[2021-04-08 12:12:32Z INFO JobDispatcher] Job request a9a345e6-1106-5aaa-6fe5-f842db892828 processed succeed.
+[2021-04-08 12:12:32Z INFO Terminal] WRITE LINE: 2021-04-08 12:12:32Z: Running job: build (15.x)
+[2021-04-08 12:12:32Z INFO JobDispatcher] Start renew job request 8 for job 9401685c-2fe3-55d8-df43-398be35d1e48.
+[2021-04-08 12:12:33Z INFO JobDispatcher] Successfully renew job request 8, job is valid till 08/04/2021 12:22:33
+[2021-04-08 12:12:33Z INFO HostContext] Well known directory 'Bin': '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   File name: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin/Runner.Worker'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 90 107'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rishavrapta/Desktop/continuos/demoapp/actions-runner/bin'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-04-08 12:12:33Z INFO ProcessInvokerWrapper] Process started with process id 25201, waiting for process exit.
+[2021-04-08 12:12:33Z INFO JobDispatcher] Send job request message to worker for job 9401685c-2fe3-55d8-df43-398be35d1e48.
+[2021-04-08 12:12:33Z INFO JobNotification] Entering JobStarted Notification
+[2021-04-08 12:12:33Z INFO JobNotification] Entering StartMonitor
+[2021-04-08 12:13:12Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:13:12Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-08 12:13:12Z INFO ProcessInvokerWrapper] Finished process 25201 with exit code 100, and elapsed time 00:00:39.2451083.
+[2021-04-08 12:13:12Z INFO JobDispatcher] Worker finished for job 9401685c-2fe3-55d8-df43-398be35d1e48. Code: 100
+[2021-04-08 12:13:12Z INFO JobDispatcher] finish job request for job 9401685c-2fe3-55d8-df43-398be35d1e48 with result: Succeeded
+[2021-04-08 12:13:12Z INFO Terminal] WRITE LINE: 2021-04-08 12:13:12Z: Job build (15.x) completed with result: Succeeded
+[2021-04-08 12:13:12Z INFO JobDispatcher] Stop renew job request for job 9401685c-2fe3-55d8-df43-398be35d1e48.
+[2021-04-08 12:13:12Z INFO JobDispatcher] job renew has been canceled, stop renew job request 8.
+[2021-04-08 12:13:12Z INFO JobNotification] Entering JobCompleted Notification
+[2021-04-08 12:13:12Z INFO JobNotification] Entering EndMonitor
